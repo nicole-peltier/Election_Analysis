@@ -31,3 +31,5 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - The winner of the election was:
   - Diana DeGetter who recieved 73.8% of the vote and 272,892 number of votes
 
+## Election Audit Summary
+This script can be used for any election by modifying the csv file that is loaded in the beginning of the script. By doing this, you are able to import different data to recieve the same calculations (such as winner of election, county with the highest turnout, etc.). This script can also be changed by modifying the text file to have a different name so that you are able to keep the previous election results while making a new text file to see the new election results. This would be helpful if you were wanting to compare county turnout rates from year to year. 
